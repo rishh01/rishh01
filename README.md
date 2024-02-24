@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rishabh Suryavanshi</h1>
+<h1 align="center">Hey 👋, I'm Rishabh Suryavanshi</h1>
 <h3 align="center">Computer Science and Engineering Sophomore at NIT Hamirpur</h3>
 <h3 align="center">Passionate Flutter developer</h3>
 
