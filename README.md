@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="300" src="https://www.bing.com/th/id/OGC.87df6d60f4cc3c07968ae2127bddcc30?pid=1.7&rurl=https%3a%2f%2f64.media.tumblr.com%2f4ac57db98021ffd3a4e6717dee097802%2faa44282323a3c36a-66%2fs500x750%2f727356ce2f1c9fdf07998fcd735c32d83e30f05d.gif&ehk=fgYgRNG3duc9887LP4w4QBv225tyBi9FnSAZO0Kfo84%3d">
 
-- 🌱 I’m currently learning: **Blockchain**
+- 🌱 I’m currently learning: **Large Language Models**
 
 - 💬 Ask me about: **Flutter, Dart**
 
